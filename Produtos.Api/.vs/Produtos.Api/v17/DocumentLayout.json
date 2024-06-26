@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\entities\\produtosimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\entities\\produtosimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\entities\\produtoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\entities\\produtoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E367EC-2BBF-4D50-9430-6E6DFBDB78EB}|Produtos.Infra.Data.EntityFramework\\Produtos.Infra.Data.EntityFramework.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.infra.data.entityframework\\context\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E367EC-2BBF-4D50-9430-6E6DFBDB78EB}|Produtos.Infra.Data.EntityFramework\\Produtos.Infra.Data.EntityFramework.csproj|solutionrelative:produtos.infra.data.entityframework\\context\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|solutionrelative:produtos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B645FCF8-BF35-4ECA-B30B-5A0149F5B487}|Produtos.Infra.CrossCutting.DI\\Produtos.Infra.CrossCutting.DI.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.infra.crosscutting.di\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B645FCF8-BF35-4ECA-B30B-5A0149F5B487}|Produtos.Infra.CrossCutting.DI\\Produtos.Infra.CrossCutting.DI.csproj|solutionrelative:produtos.infra.crosscutting.di\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D623E-6542-4435-8192-5E17AD569207}|Produtos.Infra.CrossCutting\\Produtos.Infra.CrossCutting.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.infra.crosscutting\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D623E-6542-4435-8192-5E17AD569207}|Produtos.Infra.CrossCutting\\Produtos.Infra.CrossCutting.csproj|solutionrelative:produtos.infra.crosscutting\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D623E-6542-4435-8192-5E17AD569207}|Produtos.Infra.CrossCutting\\Produtos.Infra.CrossCutting.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.infra.crosscutting\\notification\\notificationcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D623E-6542-4435-8192-5E17AD569207}|Produtos.Infra.CrossCutting\\Produtos.Infra.CrossCutting.csproj|solutionrelative:produtos.infra.crosscutting\\notification\\notificationcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\interfaces\\repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\interfaces\\repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\entities\\_base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\entities\\_base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\appservices\\_base\\appservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\appservices\\_base\\appservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\appservices\\produtoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\appservices\\produtoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|solutionrelative:produtos.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.api\\controllers\\_base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E8DC91-DA0D-4E31-877D-84B8D545DE69}|Produtos.Api\\Produtos.Api.csproj|solutionrelative:produtos.api\\controllers\\_base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\interfaces\\_base\\iappservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\interfaces\\_base\\iappservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\appservices\\autenticacaoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\appservices\\autenticacaoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\interfaces\\iautenticacaoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\interfaces\\iautenticacaoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4900812B-3A40-40D8-8629-86AC85C2BD2C}|Produtos.Domain\\Produtos.Domain.csproj|solutionrelative:produtos.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|c:\\users\\dizai\\source\\repos\\produtos.api\\produtos.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037ED1F-BD7F-46E8-98B1-528F56DA2FD9}|Produtos.Application\\Produtos.Application.csproj|solutionrelative:produtos.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoSimpleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\ProdutoSimpleDTO.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Entities\\ProdutoSimpleDTO.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\ProdutoSimpleDTO.cs",
+              "RelativeToolTip": "Produtos.Domain\\Entities\\ProdutoSimpleDTO.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:48:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\ProdutoEstoque.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Entities\\ProdutoEstoque.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\ProdutoEstoque.cs",
+              "RelativeToolTip": "Produtos.Domain\\Entities\\ProdutoEstoque.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:48:06.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "Produtos.Domain\\Entities\\Produto.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:47:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Produtos.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Program.cs",
+              "RelativeToolTip": "Produtos.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:05:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosContext.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.Data.EntityFramework\\Context\\ProdutosContext.cs",
+              "RelativeDocumentMoniker": "Produtos.Infra.Data.EntityFramework\\Context\\ProdutosContext.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.Data.EntityFramework\\Context\\ProdutosContext.cs",
+              "RelativeToolTip": "Produtos.Infra.Data.EntityFramework\\Context\\ProdutosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:02:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting.DI\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "Produtos.Infra.CrossCutting.DI\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting.DI\\DependencyInjectionService.cs",
+              "RelativeToolTip": "Produtos.Infra.CrossCutting.DI\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:00:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting\\Pagination\\PagedList.cs",
+              "RelativeDocumentMoniker": "Produtos.Infra.CrossCutting\\Pagination\\PagedList.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting\\Pagination\\PagedList.cs",
+              "RelativeToolTip": "Produtos.Infra.CrossCutting\\Pagination\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:00:20.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationContent.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting\\Notification\\NotificationContent.cs",
+              "RelativeDocumentMoniker": "Produtos.Infra.CrossCutting\\Notification\\NotificationContent.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Infra.CrossCutting\\Notification\\NotificationContent.cs",
+              "RelativeToolTip": "Produtos.Infra.CrossCutting\\Notification\\NotificationContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:00:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\ProdutoAppService.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\AppServices\\ProdutoAppService.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\ProdutoAppService.cs",
+              "RelativeToolTip": "Produtos.Application\\AppServices\\ProdutoAppService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:27:02.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Produtos.Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Produtos.Api\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:39:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\_Base\\AppServiceBase.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\AppServices\\_Base\\AppServiceBase.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\_Base\\AppServiceBase.cs",
+              "RelativeToolTip": "Produtos.Application\\AppServices\\_Base\\AppServiceBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:14.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\_Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Entities\\_Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Entities\\_Base\\Entity.cs",
+              "RelativeToolTip": "Produtos.Domain\\Entities\\_Base\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Interfaces\\Repository\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Interfaces\\Repository\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Interfaces\\Repository\\IProdutoRepository.cs",
+              "RelativeToolTip": "Produtos.Domain\\Interfaces\\Repository\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Controllers\\_Base\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Produtos.Api\\Controllers\\_Base\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Api\\Controllers\\_Base\\BaseApiController.cs",
+              "RelativeToolTip": "Produtos.Api\\Controllers\\_Base\\BaseApiController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:11:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
+              "RelativeToolTip": "Produtos.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutenticacaoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\AutenticacaoAppService.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\AppServices\\AutenticacaoAppService.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\AppServices\\AutenticacaoAppService.cs",
+              "RelativeToolTip": "Produtos.Application\\AppServices\\AutenticacaoAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Produtos.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Domain\\Class1.cs",
+              "RelativeToolTip": "Produtos.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:44:27.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAutenticacaoAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Interfaces\\IAutenticacaoAppService.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\Interfaces\\IAutenticacaoAppService.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Interfaces\\IAutenticacaoAppService.cs",
+              "RelativeToolTip": "Produtos.Application\\Interfaces\\IAutenticacaoAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:43:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Produtos.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\dizai\\source\\repos\\Produtos.Api\\Produtos.Application\\Class1.cs",
+              "RelativeToolTip": "Produtos.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:34:36.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
